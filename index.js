@@ -1,5 +1,9 @@
 // Some testing code
 
 function hello() {
-    return "Hello World"
+    return "Hello"
+}
+
+function world () {
+    return "World"
 }
