@@ -1,0 +1,15 @@
+{
+  "name": "dummyapp",
+  "version": "1.0.0",
+  "description": "This is just a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.magenta.dk/steffen/test_mirror"
+  },
+  "author": "",
+  "license": "ISC"
+}

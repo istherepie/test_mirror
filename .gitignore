@@ -1,0 +1,7 @@
+# Development
+.idea
+.note
+
+# Generated
+log/*
+node_modules
